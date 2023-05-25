@@ -1,0 +1,19 @@
+.absolute {
+    border: 3px solid green;
+    height: 200px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    flex-wrap: wrap;
+
+}
+
+#usmama {
+    color: rgb(144, 52, 230);
+}
+
+#usmama:hover {
+    border: 2px solid red;
+    cursor: pointer;
+    background-color: yellow;
+}
